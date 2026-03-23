@@ -1,8 +1,0 @@
-Create a directory named test_dir using mkdir.
-Inside test_dir, create an empty file called example.txt.
-Rename example.txt to renamed_example.txt using mv
---------
-
-mkdir test_dir
-touch example.txt
-mv example.txt
