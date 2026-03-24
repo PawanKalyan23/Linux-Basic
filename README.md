@@ -1,3 +1,6 @@
+microsoft doc: [Tutedude Assignment.docx](https://github.com/user-attachments/files/26200637/Tutedude.Assignment.docx)
+
+
 # Linux-Basic
 Assignment for linux basic creation and deletion of files and folders
 
